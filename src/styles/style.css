@@ -5,7 +5,7 @@ pixelify-sans-<uniquifier> {
     font-style: normal;
 }
 body{
-    background-color: #F3F3F3;
+    background-color: #2e2e2e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,8 +14,6 @@ body{
     font-weight: bold;
     font-style: normal;
 }    
-
-
 .container{
     display: flex;
     flex-direction: column;
@@ -24,7 +22,7 @@ body{
     row-gap: 1rem;
 }
 .Header{
-    background-color: #F3F3F3;
+    
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -36,7 +34,6 @@ body{
     scale: 1.3;
 }
 .Header_text{
-    background-color: #F3F3F3;
     display: flex;
     justify-content: center;
     width: 15rem;
@@ -45,7 +42,7 @@ body{
     scale: 1.3;
 }
 .List{
-    background-color: #ffffff;
+    background-color: #454545;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -75,7 +72,7 @@ body{
   font-weight: bold;
   border: none;
   border-radius: 25px;
-  background-color: #f3f3f3; /* a nice bright pink, or any color */
+  background-color: #454545; /* a nice bright pink, or any color */
   
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   cursor: pointer;
