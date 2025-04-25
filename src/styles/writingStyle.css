@@ -5,7 +5,7 @@ pixelify-sans-<uniquifier> {
     font-style: normal;
 }
 body{
-    background-color: #d0d0d0;
+    background-color: #2e2e2e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,7 +31,7 @@ body{
   width: 23rem;
   font-size: 1.5rem;
   font-weight: bold;
-  background-color: #e7e7e7;
+  background-color: #454545;
   border: none ;
   border-radius: 25px;
   color: black;
@@ -44,7 +44,7 @@ h2{
     height:1rem;
 }
 #Finish{
-    background-color: #e7e7e7;
+    background-color: #454545;
     height: 4rem;
     width: 23rem;
     border: none;
@@ -52,4 +52,4 @@ h2{
     font-family: "Pixelify Sans", sans-serif;
     font-weight: bold;
     font-size: 1.5rem;
-}
+    }
